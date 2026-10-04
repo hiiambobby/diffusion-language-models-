@@ -1,1 +1,1 @@
-"# diffusion-language-models-" 
+An independent research-oriented study of Diffusion Language Models, covering their mathematical foundations, implementation, training, sampling procedures, and comparison with autoregressive language models.
